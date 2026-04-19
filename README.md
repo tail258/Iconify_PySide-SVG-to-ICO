@@ -22,9 +22,8 @@
 
 ### 开发者本地运行
 1. 确保已安装 Python 3.11 或以上版本。
-2. 克隆本仓库到本地：git clone https://github.com/你的用户名/你的仓库名.git
-3. 进入项目目录安装依赖：pip install PySide6
-4. 启动程序：python main.py
+2. 进入项目目录安装依赖：pip install PySide6
+3. 启动程序：python main.py
 
 ### 源码打包
 如果你修改了代码并想重新生成 exe 文件：
