@@ -1,0 +1,16 @@
+# 打包产物与临时文件
+build/
+dist/
+*.spec
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境 (如果您建了的话)
+venv/
+env/
+
+# 编辑器配置
+.vscode/
+.idea/
