@@ -1,12 +1,9 @@
 <div align="center">
-  <div style="display: inline-block; width: 100px; height: 100px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 50%; padding: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
-    <img src="logo.png" alt="Iconify Logo" style="width: 92px; height: 92px; border-radius: 50%; display: block;" />
+  <!-- Logo 展示 -->
+  <div style="display: inline-block; padding: 16px; background: white; border-radius: 20px; box-shadow: 0 8px 30px rgba(102, 126, 234, 0.25); margin-bottom: 8px;">
+    <img src="logo.ico" alt="Iconify Logo" style="width: 90px; height: 90px; display: block;" />
   </div>
-  <h1 style="margin: 12px 0 4px 0; font-size: 2.2em; font-weight: 700; color: #1a1a2e;">
-    🎨 Iconify
-  </h1>
-  ...
-</div>
+  <h1 style="margin: 8px 0 4px 0; font-size: 2.2em; font-weight: 700; color: #1a1a2e;">
     🎨 Iconify
   </h1>
   <p style="font-size: 1.1em; color: #555; margin: 0 0 12px 0;">
@@ -49,7 +46,6 @@
 
 <table>
   <tr>
-    <!-- 卡片 1 -->
     <td width="50%" style="border: none; padding: 8px;">
       <div style="background: #f8f9ff; border-radius: 12px; padding: 20px 18px; border-left: 4px solid #667eea; height: 100%;">
         <p style="font-size: 1.5em; margin: 0 0 8px 0;">📦</p>
@@ -57,7 +53,6 @@
         <p style="color: #555; margin: 6px 0 0 0; line-height: 1.6;">支持一次性导入多张 SVG 图片，统一批量转换，大幅提升工作效率。</p>
       </div>
     </td>
-    <!-- 卡片 2 -->
     <td width="50%" style="border: none; padding: 8px;">
       <div style="background: #fff8f0; border-radius: 12px; padding: 20px 18px; border-left: 4px solid #f0a500; height: 100%;">
         <p style="font-size: 1.5em; margin: 0 0 8px 0;">⚡</p>
@@ -67,7 +62,6 @@
     </td>
   </tr>
   <tr>
-    <!-- 卡片 3 -->
     <td width="50%" style="border: none; padding: 8px;">
       <div style="background: #f0faf5; border-radius: 12px; padding: 20px 18px; border-left: 4px solid #2ea44f; height: 100%;">
         <p style="font-size: 1.5em; margin: 0 0 8px 0;">📐</p>
@@ -75,7 +69,6 @@
         <p style="color: #555; margin: 6px 0 0 0; line-height: 1.6;">手动设置导出的 ICO 分辨率大小，灵活适配各种使用场景。</p>
       </div>
     </td>
-    <!-- 卡片 4 -->
     <td width="50%" style="border: none; padding: 8px;">
       <div style="background: #fef0f5; border-radius: 12px; padding: 20px 18px; border-left: 4px solid #e04a84; height: 100%;">
         <p style="font-size: 1.5em; margin: 0 0 8px 0;">🚀</p>
@@ -92,7 +85,8 @@
 
 <div align="center">
   <div style="display: inline-block; border-radius: 12px; overflow: hidden; box-shadow: 0 8px 32px rgba(0,0,0,0.12); margin: 12px 0;">
-    <img src="image" alt="Iconify 界面截图" style="max-width: 100%; display: block;" />
+    <img src="![Uploading image.png…]()
+" alt="Iconify 界面截图" style="max-width: 100%; display: block;" />
   </div>
   <p style="color: #888; font-size: 0.9em; margin-top: 8px;">▲ Iconify 主界面截图</p>
 </div>
@@ -158,45 +152,25 @@
 
 ## 🛠️ 技术栈
 
-<div align="center">
-  <table style="border: none;">
-    <tr>
-      <td align="center" style="border: none; padding: 12px 20px;">
-        <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      </td>
-      <td align="center" style="border: none; padding: 12px 20px;">
-        <img src="https://img.shields.io/badge/PySide6-GUI-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PySide6" />
-      </td>
-      <td align="center" style="border: none; padding: 12px 20px;">
-        <img src="https://img.shields.io/badge/PyInstaller-Pack-333?style=for-the-badge&logo=pyinstaller&logoColor=white" alt="PyInstaller" />
-      </td>
-    </tr>
-  </table>
-</div>
+- **语言**：Python 3.11
+- **GUI 框架**：PySide6
+- **打包工具**：PyInstaller
 
 ---
 
 ## ⚠️ 免责声明
 
-<table style="width: 100%; border-collapse: separate; border-spacing: 0;">
-  <tr>
-    <td style="background: #fffbe6; border: 1px solid #ffe58f; border-radius: 12px; padding: 20px 22px;">
-      <table style="width: 100%; border: none; background: transparent;">
-        <tr>
-          <td style="border: none; width: 36px; vertical-align: top; padding-right: 12px;">
-            <span style="font-size: 1.4em;">⚠️</span>
-          </td>
-          <td style="border: none; color: #5c4b00; line-height: 1.7; font-size: 0.95em;">
-            <strong>按原样提供：</strong>本软件及相关代码"按原样"提供，作者不对其适用性、可靠性或无错误运行做任何明示或暗示的保证。<br />
-            <strong>数据安全：</strong>虽然本工具仅在您的本地离线运行，不会收集任何隐私，但在进行批量文件转换前，<strong>强烈建议您备份重要原文件</strong>。因使用本软件导致的任何数据丢失或文件损坏，作者不承担任何责任。<br />
-            <strong>合法使用：</strong>请确保您对输入转换的 SVG 图片拥有合法的使用权，请勿用于侵犯他人版权或知识产权的用途。<br />
-            <strong>非商业支持：</strong>本项目为开源学习交流之作，不提供任何商业级别的技术支持与维护承诺。
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+**按原样提供**  
+本软件及相关代码“按原样”提供，作者不对其适用性、可靠性或无错误运行做任何明示或暗示的保证。
+
+**数据安全**  
+虽然本工具仅在您的本地离线运行，不会收集任何隐私，但在进行批量文件转换前，**强烈建议您备份重要原文件**。因使用本软件导致的任何数据丢失或文件损坏，作者不承担任何责任。
+
+**合法使用**  
+请确保您对输入转换的 SVG 图片拥有合法的使用权，请勿用于侵犯他人版权或知识产权的用途。
+
+**非商业支持**  
+本项目为开源学习交流之作，不提供任何商业级别的技术支持与维护承诺。
 
 ---
 
