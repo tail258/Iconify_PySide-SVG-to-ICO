@@ -1,6 +1,12 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Framed%20Picture.png" alt="Iconify Logo" width="80" height="80" />
-  <h1 style="margin: 8px 0 4px 0; font-size: 2.2em; font-weight: 700; color: #1a1a2e;">
+  <div style="display: inline-block; width: 100px; height: 100px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 50%; padding: 4px; box-shadow: 0 4px 15px rgba(0,0,0,0.15);">
+    <img src="logo.png" alt="Iconify Logo" style="width: 92px; height: 92px; border-radius: 50%; display: block;" />
+  </div>
+  <h1 style="margin: 12px 0 4px 0; font-size: 2.2em; font-weight: 700; color: #1a1a2e;">
+    🎨 Iconify
+  </h1>
+  ...
+</div>
     🎨 Iconify
   </h1>
   <p style="font-size: 1.1em; color: #555; margin: 0 0 12px 0;">
